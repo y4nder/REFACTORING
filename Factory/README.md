@@ -1,0 +1,3 @@
+In this part of the code refactoring tutorial, I will show you how to replace a constructor with a factory method in 2 code examples.
+
+I also received a challenge from one of you guys that I will solve. The challenge involves how to create a singleton factory method. It sounds more complicated than it is, but by watching this you’ll learn a lot. Here are some topics you may want to brush up on: Java Reflection, Factory Design Pattern, and the Singleton Design Pattern.
